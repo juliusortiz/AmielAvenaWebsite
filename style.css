@@ -25,6 +25,9 @@ p {font-size: 16px;}
   padding-top: 70px;
   padding-bottom: 70px;
 }
+
+/**NAVIGATION BAR DESIGN**/
+
 .navbar {
   padding-top: 15px;
   border: 0;
@@ -38,6 +41,19 @@ p {font-size: 16px;}
   color: #1abc9c !important;
 }
 
+.navbar-nav li img {
+  width: 80px;
+  bottom: 36px;
+  padding: 12px 15px;
+  bottom: 27px;
+  right: 22px;
+  position: relative;
+  
+  
+}
+
+/**LOGO DESIGN**/
+
 .navbar-brand img {
     padding: 12px 15px;
     width: 110px;
@@ -45,6 +61,11 @@ p {font-size: 16px;}
     position: relative;
     bottom: 36px;
 }
+
+
+
+
+ /**CAROUSELL DESIGN**/
 
 .carousel-inner img {
     margin: auto;
